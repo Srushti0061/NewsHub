@@ -138,4 +138,6 @@ NewsNiti/
 ---
 
 ## 👩‍💻 **Author**
-**Shruti Chavan**  
+- **Shruti Chavan**
+- **Srushti Jamdade** 
+- **Amruta Patil**
