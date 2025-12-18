@@ -1,13 +1,13 @@
-# 📖 **NewsNiti – Smart News Aggregator Website**
+# 📖 **NewsHub – Smart News Aggregator Website**
 
-**NewsNiti** is an intelligent, full-stack news aggregation platform that curates and summarizes the latest news from multiple trusted sources in real-time. It combines web scraping, news APIs, AI-powered summarization and a modern user interface to deliver a seamless reading experience.
+**NewsHub** is an intelligent, full-stack news aggregation platform that curates and summarizes the latest news from multiple trusted sources in real-time. It combines web scraping, news APIs, AI-powered summarization and a modern user interface to deliver a seamless reading experience.
 
 Live Demo (link): 
 
 ---
 
 ## 🚀 **Project Overview**
-NewsNiti automatically fetches trending and category-wise news articles from various sources, summarizes them using NLP techniques and presents them in a clean, interactive UI.  
+NewsHub automatically fetches trending and category-wise news articles from various sources, summarizes them using NLP techniques and presents them in a clean, interactive UI.  
 Users can explore top headlines, browse by country or topic, save articles for later, add notes and personalize their profile dashboard.
 
 ---
@@ -34,7 +34,6 @@ Users can explore top headlines, browse by country or topic, save articles for l
 ### 💾 **5. User-Friendly Features**
 - **Save articles** for later reading.
 - **Add personal notes** on any article.
-- **Manage alerts** to stay informed on preferred topics.
 
 ### 🎨 **6. Modern & Responsive UI**
 - Built with **React.js** and **Tailwind CSS**.
@@ -67,8 +66,8 @@ Users can explore top headlines, browse by country or topic, save articles for l
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/shruti0731/NewsNiti.git
-cd NewsNiti
+git clone https://github.com/Srushti0061/NewsHub.git
+cd NewsHub
 ```
 
 ### 2. Install dependencies
@@ -104,7 +103,7 @@ Visit 👉 **http://localhost:3000**
 ## 🧩 **Folder Structure**
 
 ```
-NewsNiti/
+NewsHub/
 │
 ├── client/                 # React frontend
 │   ├── src/
@@ -138,6 +137,6 @@ NewsNiti/
 ---
 
 ## 👩‍💻 **Author**
-- **Shruti Chavan**
 - **Srushti Jamdade** 
+- **Shruti Chavan**
 - **Amruta Patil**
